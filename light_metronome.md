@@ -3,3 +3,5 @@ We don't gather or store any personal data, none whatsoever. I don't want it, an
 
 This app is open source under the MIT license so feel free to have a poke around in the code on github.
 [View on Github](https://github.com/weirdybeardyman/light-metronome)
+
+Contact levi@weirdy.dev if you have any questions.
